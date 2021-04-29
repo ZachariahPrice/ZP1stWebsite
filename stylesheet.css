@@ -1,0 +1,43 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p1 {
+    font-size: 20px;
+    
+}
+
+ul {
+    list-style-type:square;
+    font-size: 18px;
+    
+    
+    display: block;
+}
+
+.column{
+    float: left;
+    width: 33%;
+    padding: 2px;
+    
+}
+
+div.column{
+    box-shadow: 0 1px 8px 0;
+    background-color: white;
+}
+
+body{
+    background-color: #D4D4D4;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+ol{
+    font-size: 19px;
+}
