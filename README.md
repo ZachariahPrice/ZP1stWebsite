@@ -6,4 +6,4 @@ This is a website that I made during the 1st week of studying at MIT. This websi
 I will not be adding more to the website. 
 
 
-If you do download it, do not edit and publish it onto the internet pretending it to be your own work.
+
