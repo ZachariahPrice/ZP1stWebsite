@@ -1,7 +1,9 @@
 # ZP1stWebsite
 What is this website?
 
-This was made during week 1 of my class studying at MIT. It looks horrible yes, but it's just a basic website where we learning html and css. 
-I will not be adding more to it, but will add more projects in the future. 
+This is a website that I made during the 1st week of studying at MIT. This websites is part of an exercise that we had to complete. The website itself is very basic, as we were just beginners.
 
-In terms of usuage, it's just viewing it, theres not much you can do with it.
+I will not be adding more to the website. 
+
+
+If you do download it, do not edit and publish it onto the internet pretending it to be your own work.
